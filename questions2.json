@@ -1,0 +1,455 @@
+{
+    "questions": [
+        {
+            "question": "Kokia yra Prancūzijos sostinė?",
+            "options": [
+                "Berlynas",
+                "Madridas",
+                "Paryžius",
+                "Roma"
+            ],
+            "correctOption": 2,
+            "points": 5
+        },
+        {
+            "question": "Kurioje šalyje yra Didysis Kanjonas?",
+            "options": [
+                "JAV",
+                "Kanada",
+                "Meksika",
+                "Brazilija"
+            ],
+            "correctOption": 0,
+            "points": 5
+        },
+        {
+            "question": "Kur yra Didieji ežerai(Great Lakes)?",
+            "options": [
+                "JAV",
+                "Kanada",
+                "Australija",
+                "Brazilija"
+            ],
+            "correctOption": 0,
+            "points": 10
+        },
+        {
+            "question": "Kokia kalba kalbama Indijoje?",
+            "options": [
+                "Hindi",
+                "Anglų",
+                "Urdu",
+                "Kinų"
+            ],
+            "correctOption": 0,
+            "points": 5
+        },
+        {
+            "question": "Europos Sąjungos valiuta?",
+            "options": [
+                "Doleris",
+                "Svaras",
+                "Jena",
+                "Euras"
+            ],
+            "correctOption": 3,
+            "points": 1
+        },
+        {
+            "question": "Kinijos sostinė?",
+            "options": [
+                "Pekinas",
+                "Shanghai",
+                "Hongkongas",
+                "Kantonas"
+            ],
+            "correctOption": 0,
+            "points": 5
+        },
+        {
+            "question": "Kuris miestas vadinamas 'Tūkstantmečio miestu'?",
+            "options": [
+                "Romos",
+                "Atėnų",
+                "Stambulo",
+                "Damasko"
+            ],
+            "correctOption": 2,
+            "points": 15
+        },
+        {
+            "question": "Kur yra Petra miestas?",
+            "options": [
+                "Jordanija",
+                "Sirija",
+                "Egiptas",
+                "Saudų Arabija"
+            ],
+            "correctOption": 0,
+            "points": 20
+        },
+        {
+            "question": "Kokia yra daugiausia kalbama kalba pasaulyje?",
+            "options": [
+                "Kinų",
+                "Anglų",
+                "Hindi",
+                "Ispanų"
+            ],
+            "correctOption": 1,
+            "points": 15
+        },
+        {
+            "question": "Koks yra didžiausias Afrikos kalnų viršūnės pavadinimas?",
+            "options": [
+                "Kilimandžaras",
+                "Atlaso kalnai",
+                "Drakensbergo kalnai",
+                "Rifas"
+            ],
+            "correctOption": 0,
+            "points": 10
+        },
+        {
+            "question": "Japonijos sostinė?",
+            "options": [
+                "Osaka",
+                "Kyoto",
+                "Tokijas",
+                "Hirošima"
+            ],
+            "correctOption": 2,
+            "points": 10
+        },
+        {
+            "question": "Tejo upės ilgumas?",
+            "options": [
+                "750 km",
+                "1350 km",
+                "2580 km",
+                "4700 km"
+            ],
+            "correctOption": 0,
+            "points": 5
+        },
+        {
+            "question": "Kokia šalis yra vadinama 'Šiaurės šalimi'?",
+            "options": [
+                "Suomija",
+                "Islandija",
+                "Norvegija",
+                "Kanada"
+            ],
+            "correctOption": 1,
+            "points": 10
+        },
+        {
+            "question": "Saharos dykumos didžiausias ežeras?",
+            "options": [
+                "Maroko ežeras",
+                "Qattara ežeras",
+                "Tibesti ežeras",
+                "Chad ežeras"
+            ],
+            "correctOption": 3,
+            "points": 15
+        },
+        {
+            "question": "Koks miestas vadinamas 'Azijos širdimi'?",
+            "options": [
+                "Bangladešas",
+                "Delis",
+                "Kalkata",
+                "Džakarta"
+            ],
+            "correctOption": 1,
+            "points": 5
+        },
+        {
+            "question": "Kuri valstybė yra žinoma kaip 'Solniečių šalis'?",
+            "options": [
+                "Indija",
+                "Kinija",
+                "Japonija",
+                "Šri Lanka"
+            ],
+            "correctOption": 3,
+            "points": 20
+        },
+        {
+            "question": "Kas yra Tadž Mahal?",
+            "options": [
+                "Karališkas rūmai",
+                "Muziejus",
+                "Mažas bokštas",
+                "Mausolejas"
+            ],
+            "correctOption": 3,
+            "points": 10
+        },
+        {
+            "question": "Kas yra Andų kalnai?",
+            "options": [
+                "Kalnynas Pietų Amerikoje",
+                "Europos kalnai",
+                "Himalajai",
+                "Afrikos kalnai"
+            ],
+            "correctOption": 0,
+            "points": 25
+        },
+        {
+            "question": "Kur yra Machu Picchu senovės miestas?",
+            "options": [
+                "Peru",
+                "Bolivija",
+                "Čilė",
+                "Argentina"
+            ],
+            "correctOption": 0,
+            "points": 30
+        },
+        {
+            "question": "Pietų Korėjos sostinės pavadinimas?",
+            "options": [
+                "Seulas",
+                "Pusan",
+                "Daegu",
+                "Inčon"
+            ],
+            "correctOption": 0,
+            "points": 5
+        },
+        {
+            "question": "Kiek Niagaro krioklyje yra krioklių?",
+            "options": [
+                "3",
+                "5",
+                "7",
+                "9"
+            ],
+            "correctOption": 2,
+            "points": 15
+        },
+        {
+            "question": "Kokia šalis yra vadinama 'Saulėta Gražuolė'?",
+            "options": [
+                "Meksika",
+                "Brazilija",
+                "Ispanija",
+                "Italija"
+            ],
+            "correctOption": 3,
+            "points": 35
+        },
+        {
+            "question": "Kuris kalnas yra didžiausias Australijoje?",
+            "options": [
+                "Uluru",
+                "Kosciuszko kalnas",
+                "Andas",
+                "Ayers Rock"
+            ],
+            "correctOption": 1,
+            "points": 20
+        },
+        {
+            "question": "Kur yra Chichén Itzá senovės miestas?",
+            "options": [
+                "Meksika",
+                "Peru",
+                "Gvatemala",
+                "Hondūras"
+            ],
+            "correctOption": 0,
+            "points": 15
+        },
+        {
+            "question": "Kur yra Grand Canyon Nacionalinis parkas?",
+            "options": [
+                "Arizonos",
+                "Kalifornijos",
+                "Nevados",
+                "Kolorado"
+            ],
+            "correctOption": 0,
+            "points": 25
+        },
+        {
+            "question": "Kur yra Austrumų sostinė, kurią vadinama 'Pusmėnuliuose'?",
+            "options": [
+                "Pekinas",
+                "Tokišima",
+                "Seulas",
+                "Taipei"
+            ],
+            "correctOption": 3,
+            "points": 5
+        },
+        {
+            "question": "Kokia yra didžiausia gyva planeta saulės sistemoje?",
+            "options": [
+                "Marsas",
+                "Jupiteris",
+                "Saturnas",
+                "Venusas"
+            ],
+            "correctOption": 1,
+            "points": 20
+        },
+        {
+            "question": "Koks yra didžiausias vandenynas pasaulyje pagal plotą?",
+            "options": [
+                "Ramzėjus vandenynas",
+                "Indijos vandenynas",
+                "Atlanto vandenynas",
+                "Antarktikos vandenynas"
+            ],
+            "correctOption": 3,
+            "points": 20
+        },
+        {
+            "question": "Koks yra genijaus Leonardo da Vinci paveikslas, kuris vaizduoja pasaulio kurimą?",
+            "options": [
+                "Mona Lisa",
+                "Paskutinė vakarienė",
+                "Auksinis skersmuo",
+                "Šventoji Dovana"
+            ],
+            "correctOption": 2,
+            "points": 20
+        },
+        {
+            "question": "Kas yra vyriausias pasaulyje gyvas vandens gyventojas?",
+            "options": [
+                "Didysis baltasis ryklys",
+                "Bangių banginis",
+                "Didžioji baltųjų bangių grinda",
+                "Morsas"
+            ],
+            "correctOption": 0,
+            "points": 20
+        },
+        {
+            "question": "Kur yra žinoma kaip 'Didžiojo bandymo' vieta 1945 metais?",
+            "options": [
+                "Hirošima",
+                "Nagasaki",
+                "Černobylio AE",
+                "Fukushimos AE"
+            ],
+            "correctOption": 0,
+            "points": 20
+        },
+        {
+            "question": "Kur yra Pietų Amerikos aukščiausias viršūnė?",
+            "options": [
+                "Ojos del Salado",
+                "Aconcagua",
+                "Huascarán",
+                "Cotopaxi"
+            ],
+            "correctOption": 1,
+            "points": 25
+        },
+        {
+            "question": "Kur yra 'Negyvosios jūros' pavadinimo kilmės vieta?",
+            "options": [
+                "Juodosios jūros prieplauka",
+                "Kaspijos jūra",
+                "Baltijos jūra",
+                "Geltonasis jūra"
+            ],
+            "correctOption": 0,
+            "points": 25
+        },
+        {
+            "question": "Kas yra Nyderlandų meno dailininkas, kuris dažniausiai paminimas kaip 'Aurora' dailės atstovas?",
+            "options": [
+                "Rembrandt van Rijn",
+                "Vincent van Gogh",
+                "Jan Vermeer",
+                "Hieronymus Bosch"
+            ],
+            "correctOption": 2,
+            "points": 25
+        },
+        {
+            "question": "Kas yra 'Tūkstantmečio laiko stebuklas' senovės Egipte?",
+            "options": [
+                "Šešiolikos piramidžių laukas",
+                "Eufračio slėnis",
+                "Aleksandrija",
+                "Spartos miestas"
+            ],
+            "correctOption": 0,
+            "points": 30
+        },
+        {
+            "question": "Kokia yra pirmoji žmonių pasaulio sąjunga?",
+            "options": [
+                "Jungtinės Tautos",
+                "NATO",
+                "Europos Sąjunga",
+                "Šanghai Cooperation Organization"
+            ],
+            "correctOption": 0,
+            "points": 30
+        },
+        {
+            "question": "Koks yra paskutinis elementas periodinėje lentelėje?",
+            "options": [
+                "Uransas",
+                "Roentgenis",
+                "Mendelėjeviumas",
+                "Oganesson"
+            ],
+            "correctOption": 3,
+            "points": 30
+        },
+        {
+            "question": "Kas yra šiuolaikinio kompiuterio išradėjas?",
+            "options": [
+                "Alan Turing",
+                "John von Neumann",
+                "Charles Babbage",
+                "Konrad Zuse"
+            ],
+            "correctOption": 1,
+            "points": 30
+        },
+        {
+            "question": "Kas yra vienas iš tarpukario Lietuvos iškiliųjų rašytojų?",
+            "options": [
+                "Jurgis Savickis",
+                "Zigmas Gaidamavičius",
+                "Jonas Aistis",
+                "Liudas Gira"
+            ],
+            "correctOption": 0,
+            "points": 35
+        },
+        {
+            "question": "Kas yra vienas iš trijų buvusių JAV prezidentų, kurie buvo susiję su Watergate skandalo?",
+            "options": [
+                "Lyndon B. Johnson",
+                "Richard Nixon",
+                "Ronald Reagan",
+                "John F. Kennedy"
+            ],
+            "correctOption": 1,
+            "points": 35
+        },
+        {
+            "question": "Kas yra Niujorko Laivų bokštas?",
+            "options": [
+                "Kavinė",
+                "Restoranas",
+                "Lankytojų centras",
+                "Stebėjimo aikštelė"
+            ],
+            "correctOption": 2,
+            "points": 15
+        }
+    ]
+}
